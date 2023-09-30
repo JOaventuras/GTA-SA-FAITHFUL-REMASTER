@@ -1,6 +1,6 @@
 # GTA-SA-FAITHFUL-REMASTER
 A Grand Theft Auto San Andreas Faithful Remaster, aiming to maximize compatibility for gameplay
-MENU
+<H1>MENU</H1>
 1. Requirements
 2. Essentials
 3. Faithful
@@ -14,8 +14,7 @@ MENU
    In this guide the Essentials Pack is going to be installed one by one, there are no problems using the MixMod Modpack to just install and play, but I recommend knowing what each mod does and if you install the pack be sure you have the same mods at the end.
 
 
-REQUIREMENTS
-
+<H1>REQUIREMENTS</H1>
 Downgrade 1.0 version (HOODLUM)
    v1.0 gta-sa.exe (also known as Hoodlum)
    If you have the Steam version use this to downgrade to 1.0 - https://mega.nz/file/wroS3JBC#4aEqgn7V6N_znEDjx1bzCwL9vJZxhH3EqcJ4ea4oM64 <br>
@@ -35,7 +34,7 @@ CLEO+ (For loading Cleo Plugins (.cleo), newer and better than NewOpcodes (*use 
 MODLOADER (For a quick drag and drop mod installation-deinstallation, allows to organize and stablish priorities) <br>
    ModLoader - https://www.gtagarage.com/mods/show.php?id=25377 <br>
    
-ESSENTIALS <br>
+<H1>ESSENTIALS</H1> <br>
 As i said, im going one by one, i only recommend installing the Essentials Pack if you know what you are doing or if you just want to install and play. For making your own modpack i'll always recommend starting from the 1.0 (Hoodlum version) <br>
 
 SILENT PATCH (Fixes lot of bugs in the 1.0 making it more solid  than Steam version) <br>
@@ -55,6 +54,8 @@ NODEP (desativar DEP (Windows Fix) <br>
    NoDep - https://www.mixmods.com.br/2015/03/nodep-desativar-dep/ <br>
 REPAIRGTA (Fixes bugs related with some incorrect, duplicated or deleted mods) <br>
    RepairGTA - https://www.mixmods.com.br/2022/10/repair-gta/ <br>
+
+
 
 
 
