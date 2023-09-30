@@ -1,7 +1,7 @@
 # GTA-SA-FAITHFUL-REMASTER
 A Grand Theft Auto San Andreas Faithful Remaster, aiming to maximize compatibility for gameplay and modularize mods for a simpler and faster installation and deinstalattion to fix emergent problems
 <H3>MENU</H3>
-1. Requirements <br>
+1. <a link= >Requirements </a> <br>
 2. Essentials <br>
 3. Faithful <br>
 4. Optional 1 <br>
