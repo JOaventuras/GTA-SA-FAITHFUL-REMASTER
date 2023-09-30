@@ -22,6 +22,7 @@ Downgrade 1.0 version (HOODLUM)
 
 Large Address (Make your game recognize more RAM)
    4GB Patch (Large Address Aware) - https://www.mixmods.com.br/2016/09/iii-vc-sa-largeaddress-reconhecer-3-4-gb-de-ram/
+   
    3GB Switch Tutorial (32BIT ONLY, YOU DON'T NEED THIS OTHERWISE) - https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-enable-a-3GB-switch-on-Windows-Vista-Windows-7-or-Windows-XP-s.html
 
 ASI LOADER (for loading Asi Plugins (.asi), pick one, I use Ultimate ASI Loader but is the same)
