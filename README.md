@@ -35,26 +35,26 @@ CLEO+ (For loading Cleo Plugins (.cleo), newer and better than NewOpcodes (*use 
 MODLOADER (For a quick drag and drop mod installation-deinstallation, allows to organize and stablish priorities) <br>
    ModLoader - https://www.gtagarage.com/mods/show.php?id=25377 <br>
    
-ESSENTIALS
-As i said, im going one by one, i only recommend installing the Essentials Pack if you know what you are doing or if you just want to install and play. For making your own modpack i'll always recommend starting from the 1.0 (Hoodlum version)
+ESSENTIALS <br>
+As i said, im going one by one, i only recommend installing the Essentials Pack if you know what you are doing or if you just want to install and play. For making your own modpack i'll always recommend starting from the 1.0 (Hoodlum version) <br>
 
-SILENT PATCH (Fixes lot of bugs in the 1.0 making it more solid  than Steam version)
-   SilentPatch - https://cookieplmonster.github.io/mods/gta-sa/
-WIDESCREEN FIX (Fixes Field of View (FOV) and stretched Hud playing on widescreens, link below includes mod by ThirteenAG plus HOR+ Support by Wesser)
-   Widescreen Fix - https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/
-WINDOWED MODE (Fixes window mode and Windows (SO) problems)
-   Windowed Mode - https://www.mixmods.com.br/2022/10/iii-vc-sa-windowed-mode/
-FRAMERATE VIGILANTE (fixes high fps bugs, activate fps capping (to 30) in the game's menu, and never play in a higher framerate than 60 (mod))
-   Framerate - https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
-CRASHINFO (Shows a crash possible solution)
-            set 'ENABLED = 0' in the CrashInfo.ini unless you are searching to fix a crash, it may consume resources of your game
-   CrashInfo - https://www.mixmods.com.br/2022/09/crashinfo/
-RUNDLL32.EXE FIX (Fixes problem with the game not showing but running in the task manager)
-   RunDLLL32.exe Fix + GameUX.dll Fix - https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/
-NODEP (desativar DEP (Windows Fix)
-   NoDep - https://www.mixmods.com.br/2015/03/nodep-desativar-dep/
-REPAIRGTA (Fixes bugs related with some incorrect, duplicated or deleted mods)
-   RepairGTA - https://www.mixmods.com.br/2022/10/repair-gta/
+SILENT PATCH (Fixes lot of bugs in the 1.0 making it more solid  than Steam version) <br>
+   SilentPatch - https://cookieplmonster.github.io/mods/gta-sa/ <br>
+WIDESCREEN FIX (Fixes Field of View (FOV) and stretched Hud playing on widescreens, link below includes mod by ThirteenAG plus HOR+ Support by Wesser) <br>
+   Widescreen Fix - https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/ <br>
+WINDOWED MODE (Fixes window mode and Windows (SO) problems) <br>
+   Windowed Mode - https://www.mixmods.com.br/2022/10/iii-vc-sa-windowed-mode/ <br>
+FRAMERATE VIGILANTE (fixes high fps bugs, activate fps capping (to 30) in the game's menu, and never play in a higher framerate than 60 (mod)) <br>
+   Framerate - https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/ <br>
+CRASHINFO (Shows a crash possible solution) <br>
+            set 'ENABLED = 0' in the CrashInfo.ini unless you are searching to fix a crash, it may consume resources of your game <br>
+   CrashInfo - https://www.mixmods.com.br/2022/09/crashinfo/ <br>
+RUNDLL32.EXE FIX (Fixes problem with the game not showing but running in the task manager) <br>
+   RunDLLL32.exe Fix + GameUX.dll Fix - https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/ <br>
+NODEP (desativar DEP (Windows Fix) <br>
+   NoDep - https://www.mixmods.com.br/2015/03/nodep-desativar-dep/ <br>
+REPAIRGTA (Fixes bugs related with some incorrect, duplicated or deleted mods) <br>
+   RepairGTA - https://www.mixmods.com.br/2022/10/repair-gta/ <br>
 
 
 
