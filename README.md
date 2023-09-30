@@ -1,11 +1,11 @@
 # GTA-SA-FAITHFUL-REMASTER
 A Grand Theft Auto San Andreas Faithful Remaster, aiming to maximize compatibility for gameplay
-<H1>MENU</H1>
-1. Requirements
-2. Essentials
-3. Faithful
-4. Optional 1
-5. Optional 2
+<H1>MENU</H1> <br>
+1. Requirements <br>
+2. Essentials <br>
+3. Faithful <br>
+4. Optional 1 <br>
+5. Optional 2 <br>
 
    If not stated otherwise install the mods in Mod Loader
    It can be used with any standard save game, except for Story 2.0 (optional and recommended for a replay, more info later)
