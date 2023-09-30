@@ -34,7 +34,7 @@ A Grand Theft Auto San Andreas Faithful Remaster, aiming to maximize compatibili
 🚨MODLOADER (For a quick drag and drop mod installation-deinstallation, allows to organize and stablish priorities) <br>
    ModLoader - https://www.gtagarage.com/mods/show.php?id=25377 <br>
    
-<H2>ESSENTIALS</H2> <br>
+<H2>ESSENTIALS</H2>
 As i said, im going one by one, i only recommend installing the Essentials Pack if you know what you are doing or if you just want to install and play. For making your own modpack i'll always recommend starting from the 1.0 (Hoodlum version) <br>
 
 🚨SILENT PATCH (Fixes lot of bugs in the 1.0 making it more solid  than Steam version) <br>
