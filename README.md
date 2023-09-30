@@ -17,11 +17,11 @@ A Grand Theft Auto San Andreas Faithful Remaster, aiming to maximize compatibili
 <H2>REQUIREMENTS</H2>
 Downgrade 1.0 version (HOODLUM)
    v1.0 gta-sa.exe (also known as Hoodlum)
-   If you have the Steam version use this to downgrade to 1.0 - https://mega.nz/file/wroS3JBC#4aEqgn7V6N_znEDjx1bzCwL9vJZxhH3EqcJ4ea4oM64 <br>
+   If you have the Steam version use this to downgrade to 1.0 - https://mega.nz/file/wroS3JBC#4aEqgn7V6N_znEDjx1bzCwL9vJZxhH3EqcJ4ea4oM64 <br> <br>
 
 Large Address (Make your game recognize more RAM) <br>
    4GB Patch (Large Address Aware) - https://www.mixmods.com.br/2016/09/iii-vc-sa-largeaddress-reconhecer-3-4-gb-de-ram/ <br>
-   3GB Switch Tutorial (32BIT ONLY, YOU DON'T NEED THIS OTHERWISE) - https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-enable-a-3GB-switch-on-Windows-Vista-Windows-7-or-Windows-XP-s.html <br>
+   3GB Switch Tutorial (32BIT ONLY, YOU DON'T NEED THIS OTHERWISE) - https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-enable-a-3GB-switch-on-Windows-Vista-Windows-7-or-Windows-XP-s.html <br> <br>
 ASI LOADER (for loading Asi Plugins (.asi), pick one, I use Ultimate ASI Loader but is the same) <br>
    Ultimate ASI Loader - https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases <br>
    Silent's ASI Loader - https://cookieplmonster.github.io/mods/gta-sa/ <br>
