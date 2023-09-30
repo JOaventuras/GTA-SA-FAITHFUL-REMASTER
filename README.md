@@ -24,16 +24,44 @@ Large Address (Make your game recognize more RAM)
    4GB Patch (Large Address Aware) - https://www.mixmods.com.br/2016/09/iii-vc-sa-largeaddress-reconhecer-3-4-gb-de-ram/
    3GB Switch Tutorial (32BIT ONLY, YOU DON'T NEED THIS OTHERWISE) - https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-enable-a-3GB-switch-on-Windows-Vista-Windows-7-or-Windows-XP-s.html
 
-For Loading ASI Plugins (pick one, I use Ultimate ASI Loader but is the same)
+ASI LOADER (for loading Asi Plugins (.asi), pick one, I use Ultimate ASI Loader but is the same)
    Ultimate ASI Loader - https://github.com/ThirteenAG/Ultimat...
    Silent's ASI Loader - https://cookieplmonster.github.io/mods/gta-sa/
+CLEO (ASI Plugin for loading Cleo Scripts (.cs))
+   CLEO - https://cleo.li
+NewOpcodes (For loading Cleo Plugins (.cleo), older, no longer being developed, some mods may requiere this)
+   NewOpcodes - https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/
+CLEO+ (For loading Cleo Plugins (.cleo), newer and better than NewOpcodes (*use both*))
+   CLEO+ - https://www.mixmods.com.br/2022/11/cleoplus/
+MODLOADER (For a quick drag and drop mod installation-deinstallation, allows to organize and stablish priorities)
+   ModLoader - https://www.gtagarage.com/mods/show.php?id=25377
+   
+ESSENTIALS
+As i said, im going one by one, i only recommend installing the Essentials Pack if you know what you are doing or if you just want to install and play. For making your own modpack i'll always recommend starting from the 1.0 (Hoodlum version)
 
-CLEO - https://cleo.li
+SILENT PATCH (Fixes lot of bugs in the 1.0 making it more solid  than Steam version)
+   SilentPatch - https://cookieplmonster.github.io/mods/gta-sa/
+WIDESCREEN FIX (Fixes Field of View (FOV) and stretched Hud playing on widescreens, link below includes mod by ThirteenAG plus HOR+ Support by Wesser)
+   Widescreen Fix - https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/
+WINDOWED MODE (Fixes window mode and Windows (SO) problems)
+   Windowed Mode - https://www.mixmods.com.br/2022/10/iii-vc-sa-windowed-mode/
+FRAMERATE VIGILANTE (fixes high fps bugs, activate fps capping (to 30) in the game's menu, and never play in a higher framerate than 60 (mod))
+   Framerate - https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
+CRASHINFO (Shows a crash possible solution)
+            set 'ENABLED = 0' in the CrashInfo.ini unless you are searching to fix a crash, it may consume resources of your game
+   CrashInfo - https://www.mixmods.com.br/2022/09/crashinfo/
+RUNDLL32.EXE FIX (Fixes problem with the game not showing but running in the task manager)
+   RunDLLL32.exe Fix + GameUX.dll Fix - https://www.mixmods.com.br/2020/10/rundll32-exe-fix-gameux-dll-fix-corrigir-jogo-nao-abrindo/
+NODEP (desativar DEP (Windows Fix)
+   NoDep - https://www.mixmods.com.br/2015/03/nodep-desativar-dep/
+REPAIRGTA (Fixes bugs related with some incorrect, duplicated or deleted mods)
+   RepairGTA - https://www.mixmods.com.br/2022/10/repair-gta/
 
-CLEO+ - https://www.mixmods.com.br/2022/11/cleoplus/
 
-NewOpcodes - https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/
 
-Modloader - https://www.gtagarage.com/mods/show.php?id=25377
+
+
+
+
 
 
