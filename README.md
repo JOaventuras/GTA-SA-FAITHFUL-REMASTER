@@ -56,16 +56,16 @@ As i said, im going one by one, i only recommend installing the Essentials Pack 
    RepairGTA - https://www.mixmods.com.br/2022/10/repair-gta/ <br>
 
    <H2>SECOND ESSENTIALS</H2>
-   These are not in the Essentials Pack but there is not a real reason to not have this mods installed always on your game, so i call this the second essentials, and i put all of these in a the second folder on mod loader
-   🚨OPEN LIMIT ADJUSTER (OLA) (let the game put in auto the max number of elements to avoid crashes, you are never going to touch these settings except for 'Memory Avaliable')
-      Open Limit Adjuster - https://www.mixmods.com.br/2022/10/open-limit-adjuster/
-      Put 'MemoryAvailable = 2048' in the 'III.VC.SA.LimitAdjuster.ini' file, adapt it to your ram (in mb) (2048 (1GB) is the maximum, with 1 GB (1024) you are going to be ok, but if you have ram to use and want to use the maximum use 2048 like me (i have 24 GB and the game is not capable of using more than 4 GB in total. This only changes the streaming mememory, with this plus the previous change       of large address your game will be capable of using 4 GB in total, and 2 GB for streaming memory, is important to use the large address part because if not, if u set the streaming memory to 2 GB          and you use it all the game will not have memory for the other functions, more info here: https://www.youtube.com/watch?v=2pZEK40AmRg)
-   🚨IMPROVED STREAMING (preloads game files to improve RAM memory usage, thus reducing disk and processing usage, this corrects blue “holes” on the map due to objects taking a long time to load. It also corrects or prevents “choking”, “lag spikes”, and “stutter” during gameplay)
+   These are not in the Essentials Pack but there is not a real reason to not have this mods installed always on your game, so i call this the second essentials, and i put all of these in a the second folder on mod loader<br>
+   🚨OPEN LIMIT ADJUSTER (OLA) (let the game put in auto the max number of elements to avoid crashes, you are never going to touch these settings except for 'Memory Avaliable')<br>
+      Open Limit Adjuster - https://www.mixmods.com.br/2022/10/open-limit-adjuster/<br>
+      Put 'MemoryAvailable = 2048' in the 'III.VC.SA.LimitAdjuster.ini' file, adapt it to your ram (in mb) (2048 (1GB) is the maximum, with 1 GB (1024) you are going to be ok, but if you have ram to use and want to use the maximum use 2048 like me (i have 24 GB and the game is not capable of using more than 4 GB in total. This only changes the streaming mememory, with this plus the previous change       of large address your game will be capable of using 4 GB in total, and 2 GB for streaming memory, is important to use the large address part because if not, if u set the streaming memory to 2 GB          and you use it all the game will not have memory for the other functions, more info here: https://www.youtube.com/watch?v=2pZEK40AmRg)<br>
+   🚨IMPROVED STREAMING (preloads game files to improve RAM memory usage, thus reducing disk and processing usage, this corrects blue “holes” on the map due to objects taking a long time to load. It also corrects or prevents “choking”, “lag spikes”, and “stutter” during gameplay)<br>
       Improved Streaming - https://www.mixmods.com.br/2022/04/improved-streaming/
-   🚨GINPUT (Compatibility with JoyPads, PS2 and XBOX 360 buttons in game, original cheats from pad like in console, GTA IV controls, use of triggers, it can go as far as making full use of SIXAXIS feature of dual shock 3)
-      Ginput - https://cookieplmonster.github.io/mods/gta-sa/
-      'PlayStationButtons=1' (for PS2 button, if 0 it will be XBOX) in the 'GInputSA.ini'
-      'ControlsSet=2' (1 for original controls (accelerates with 'X', 2 for GTA IV controls (accelerates with 'R2' trigger)
+   🚨GINPUT (Compatibility with JoyPads, PS2 and XBOX 360 buttons in game, original cheats from pad like in console, GTA IV controls, use of triggers, it can go as far as making full use of SIXAXIS feature of dual shock 3)<br>
+      Ginput - https://cookieplmonster.github.io/mods/gta-sa/<br>
+      'PlayStationButtons=1' (for PS2 button, if 0 it will be XBOX) in the 'GInputSA.ini'<br>
+      'ControlsSet=2' (1 for original controls (accelerates with 'X', 2 for GTA IV controls (accelerates with 'R2' trigger)<br>
    🚨
    🚨
    🚨
