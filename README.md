@@ -63,13 +63,15 @@ As i said, im going one by one, i only recommend installing the Essentials Pack 
    🚨IMPROVED STREAMING (preloads game files to improve RAM memory usage, thus reducing disk and processing usage, this corrects blue “holes” on the map due to objects taking a long time to load. It also corrects or prevents “choking”, “lag spikes”, and “stutter” during gameplay)<br>
       Improved Streaming - https://www.mixmods.com.br/2022/04/improved-streaming/
    🚨GINPUT (Compatibility with JoyPads, PS2 and XBOX 360 buttons in game, original cheats from pad like in console, GTA IV controls, use of triggers, it can go as far as making full use of SIXAXIS feature of dual shock 3)<br>
-      Ginput - https://cookieplmonster.github.io/mods/gta-sa/<br>
+   🚨 Ginput - https://cookieplmonster.github.io/mods/gta-sa/<br>
       'PlayStationButtons=1' (for PS2 button, if 0 it will be XBOX) in the 'GInputSA.ini'<br>
       'ControlsSet=2' (1 for original controls (accelerates with 'X', 2 for GTA IV controls (accelerates with 'R2' trigger)<br>
-   🚨
-   🚨
-   🚨
-   🚨
+   🚨MIXSETS (hundreds of fixes and tweaks for you to configure your GTA San Andreas, I recommend to read the .ini one by one to configure it to your like and PC capacity, some mods will ask you to activate or deactivate x functions)<br>
+      MixSets - https://www.mixmods.com.br/2022/03/sa-mixsets/<br>
+      'VehFlipDontBurn=1' (Flipped cars will not catch fire) on the 'MixSets.ini' file<br>
+   🚨PROJECT 2DFX<br>
+   🚨SKY GFX EXTENDED<br>
+   🚨FASTLOADER (LISTEN!)<br>
    
 
 
